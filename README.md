@@ -1,10 +1,10 @@
 # Flutter NEWS App
 
-📺 Welcome to our Flutter News App Tutorial Series! 📺
+📺 Welcome to our Flutter News App  📺
 
-- [Tutorials Link](https://docs.flutter.dev/get-started/codelab](https://www.youtube.com/playlist?list=PLFyjjoCMAPtxqRXnxePHR3gxmqSwVYMYv))
 
-![Red Blue Modern Breaking News Youtube Thumbnail](https://github.com/axiftaj/Flutter-News-App/assets/47206155/0e017f06-b37d-40cf-88c4-4db9b62d9c66)
+
+![Red Blue Modern Breaking News (https://github.com/LWSADDAM/newsapp.git)
 
 
 In this comprehensive playlist, you'll embark on an exciting journey to learn how to build your very own News App using Flutter. Whether you're a seasoned developer or just starting with Flutter, this series is designed to cater to all skill levels, guiding you through the step-by-step process of creating a fully functional News App from scratch.
